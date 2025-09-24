@@ -1,7 +1,7 @@
 # Tast of India - Website
 
 Overview
-- Exploring India is a simple, informative website created in high school using only HTML and CSS. This project was designed as a learning experience to understand basic web development concepts such as creating navigation bars, importing images, and styling pages with CSS.
+- Exploring India is a simple, informative website created in high school (10th grade) using only HTML and CSS. This project was designed as a learning experience to understand basic web development concepts such as creating navigation bars, importing images, and styling pages with CSS.
 - The website focuses on different regions of India and their cuisines, providing a small glimpse into the country’s rich culinary culture.
 
 Features
@@ -28,6 +28,14 @@ Purpose & Learning Goals
 - Practice importing images from online sources.
 - Understand basic page layout and styling.
 - Collaborate on a small project in 10th grade and document contributions.
+
+Photo's Of Work:
+<img width="1869" height="874" alt="image" src="https://github.com/user-attachments/assets/234bffc8-b687-4211-9b3a-21c1927a9bf9" />
+<img width="1844" height="908" alt="image" src="https://github.com/user-attachments/assets/6a2f41b8-c600-4e17-b118-cfa4ed084b4f" />
+<img width="1838" height="912" alt="image" src="https://github.com/user-attachments/assets/6247c3d3-acc0-491c-ac62-384deac9e484" />
+<img width="1859" height="773" alt="image" src="https://github.com/user-attachments/assets/0ff45069-9c7f-4ae7-b67d-26ad922b1ea4" />
+
+
 
 Credits
 - Project created by Andrea Dass and Sherissa Ferreira
